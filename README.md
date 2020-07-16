@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Marxneves/Marxneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 😁
+
+My name is Marx Khristie from Brazil (🇧🇷). I've been studyng Front-End Developer since 2018 and currently I'm studyng at [Trybe](https://betrybe.com). I'm passionate about the best web development technologies .
+
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to music (🎵) and hanging out with friends.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marxkhristie)](https://www.linkedin.com/in/marxkhristie)
