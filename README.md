@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 😁
 
-My name is Marx Khristie from Brazil (🇧🇷). I've been studyng Front-End Developer since 2018 and currently I'm studyng at [Trybe](https://betrybe.com). I'm passionate about the best web development technologies .
+My name is Marx Khristie from Brazil (🇧🇷). I've been studyng Full-Stack Developer since 2018. I'm passionate about the best web development technologies .
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to music (🎵) and hanging out with friends.
 
